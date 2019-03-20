@@ -9,10 +9,10 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
 		c.Area(5);
 		c.Area(8, 9);
 		
-		/*ClassImplements c= new ClassImplements(5);
+		
 		InterfaceFirst i=new ClassImplements();
 		Parent p=new ClassImplements();
-		Parent p1=new Parent();
+	
 		c.getdata();
 		c.ATT();
 		c.BT();
@@ -27,13 +27,16 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
         i.BT();
         i.CT();
         i.DT();
+        i.FT();
+        i.GT();
+        i.HT();
        
         p.TMobile();
         p.Verizon();
-        p1.getdata();
+        p.getdata();
         
        
-  */
+ 
 	}
 
 	public void Area (int x, int y ) {
@@ -104,6 +107,27 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
 		System.out.println(name);
 		System.out.println(super.name);
 		super.getdata();
+	}
+
+	@Override
+	public void RT() {
+		// TODO Auto-generated method stub
+		System.out.println("I am FT employee");
+		
+	}
+
+	@Override
+	public void GT() {
+		// TODO Auto-generated method stub
+		System.out.println("I am FT employee");
+		
+	}
+
+	@Override
+	public void HT() {
+		// TODO Auto-generated method stub
+		System.out.println("I am FT employee");
+		
 	}
 	
 }
