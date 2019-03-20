@@ -50,25 +50,25 @@ public class ToCheckProtected extends Parent implements InterfaceFirst  {
 	@Override
 	public void FT() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("I am BT employee");
 	}
 
 	@Override
 	public void GT() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("I am BT employee");
 	}
 
 	@Override
 	public void HT() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("I am BT employee");
 	}
 
 	@Override
 	public void PT() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("I am BT employee");
 	}
 
 }
