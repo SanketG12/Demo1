@@ -10,7 +10,7 @@ public interface InterfaceFirst {
 	public void FT();
 	public void GT();
 	public void HT();
-	
+	public void PT();
 	
 	
 }

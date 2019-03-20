@@ -30,6 +30,7 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
         i.FT();
         i.GT();
         i.HT();
+        i.PT();
        
         p.TMobile();
         p.Verizon();
@@ -125,6 +126,13 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
 
 	@Override
 	public void HT() {
+		// TODO Auto-generated method stub
+		System.out.println("I am FT employee");
+		
+	}
+
+	@Override
+	public void PT() {
 		// TODO Auto-generated method stub
 		System.out.println("I am FT employee");
 		
