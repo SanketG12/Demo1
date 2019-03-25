@@ -22,7 +22,7 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
         c.TT();
         c.TMobile();
         c.Verizon();
-        
+        c.getdata12();
         i.ATT();
         i.BT();
         i.CT();
@@ -104,12 +104,18 @@ public class ClassImplements extends  Parent implements InterfaceFirst {
 	
 	//using super keyword
 	 String name="Sanket GAur";
+	 String name1="Nicky GAur";
 	public void getdata() {
 		System.out.println(name);
 		System.out.println(super.name);
 		super.getdata();
 	}
 
+	 public void getdata12()
+	 {
+		 System.out.println(name1);
+			System.out.println(super.name1);
+	 }
 	@Override
 	public void RT() {
 		// TODO Auto-generated method stub

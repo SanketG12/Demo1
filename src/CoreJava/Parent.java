@@ -30,4 +30,5 @@ public class  Parent {
 			
 		}
 	 String name ="Sanket";
+	 String name1="RAhul";
 }
