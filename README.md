@@ -1,9 +1,9 @@
 # Demo1
 I was working with the client ATT US , whose having its business in telecom domain.
-WHich basically deals in the product like Wireless,wireline and Uverse .
-ATT having its online application where new customer can go to website and buy the product.
+Which basically deals with the product like Wireless,wireline and Uverse .
+ATT having its online application where new customer can go to website and place their order for the product.
 Also existing customers can login into website and check their product details like usages,billing, 
-paymnet also they can upgrade, modify their product.
+paymnet also they can upgrade, modify and place new orders for the product.
 
 I was the part of Myatt project where i was working in wireless area and sometimes have to work on Uverse part as well.
 In this project we get the user stories, based on this we have to write the test cases and do test plannig.
