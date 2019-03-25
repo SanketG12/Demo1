@@ -22,3 +22,6 @@ After that i moved to MyattSales where i was working with Amdocs testing team.
 Here we are procuring data and doing database testing/validation and providing data to amdocs testing team.
 
 
+====================
+There is UAT team whose having some of the same scenarios as we have, so they just check thier tickets with our tickets if its match, they check wheter provided data is reusable or not like volatile or non-volatile. 
+So they use the reusable data for some scenarios and for remaing they raise tickets and we provide data to them.
