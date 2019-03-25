@@ -11,7 +11,7 @@ Where its first goes for approval and once its get apporved we get this test cas
 tool called as One Data Tool.
 After that we Procure data as mentioned in tickets. There are so many backends to which data needs to flow.
 Then we perform database testing/validation on created data to check whether this data flowing through all respective 
-backeneds or not to ensure that all the functionality of data is properly working on front end.
+backeneds or not to ensure that all the functionality of data is properly working and visible on front end.
 Once all this done we provide this data in tickets and close that.
 After that on the same data  we perform Functional testing/system testing and regression testing.
 For Regression testing we used to run automation scripts so that we can complete exucation fastly.
