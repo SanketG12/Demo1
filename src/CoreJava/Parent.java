@@ -30,10 +30,4 @@ public class  Parent {
 			
 		}
 	 String name ="Sanket";
-<<<<<<< HEAD
-	 String name1="Rahul";
-}
-=======
-	 String name1="RAhul";
-}
->>>>>>> eae53d12bb735595e154765e917b512e1d091064
+
